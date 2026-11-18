@@ -11,7 +11,7 @@ import requests
 #5 make it global
 
 #url = "https://science.nasa.gov/wp-json/wp/v2/apod-basic"
-url = "https://science.nasa.gov/wp-json/wp/v2/apod-basic/?api_key=g6hnHF9czwRrwndCnDGzg7Jnph6krDnm6tm6JWrM"
+url = "https://science.nasa.gov/wp-json/wp/v2/apod-basic/?api_key=X"
 
 req = requests.get(url)
 
